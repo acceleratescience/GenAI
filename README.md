@@ -6,7 +6,3 @@
   </a>
 
   <h3 align="center">Introduction to deep Generative AI and its applications</h3>
-
-  <p align="justify">
-    Beginner's introduction to Generative AI and its applications
-  </p>
